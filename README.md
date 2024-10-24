@@ -19,6 +19,7 @@
 - [CryptoRank](https://cryptorank.io/) - ranking of crypto project/coin
 - [Nansen](https://www.nansen.ai/) - AI analyzed Onchain Insights
 - [Debank](https://debank.com/) - Track any Wallet's Onchain Portfolio
+- [DefiLlama](https://defillama.com/) - Trading Volume analysis by chain and protocols
 
 ## Online Dev Tools
 - [Ethereum Unit Converter](https://eth-converter.com/) - wei, gwei, ether
