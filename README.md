@@ -20,9 +20,9 @@
 - [Nansen](https://www.nansen.ai/) - AI analyzed Onchain Insights
 - [Debank](https://debank.com/) - Track any Wallet's Onchain Portfolio
 - [DefiLlama](https://defillama.com/) - Trading Volume analysis by chain and protocols
+- [Altcoin Season Index](https://www.blockchaincenter.net/en/altcoin-season-index/) - Check if it's alt or btc season
 
 ## Online Dev Tools
-- [Ethereum Unit Converter](https://eth-converter.com/) - wei, gwei, ether
+- [EVM Dev Tools](https://tools.deth.net/calldata-decoder) - Calldata encoding, unit conversion and more
 - [Remix](https://remix.ethereum.org/) - online IDE
-- [Online ABI Encoder](https://abi.hashex.org/)
 - [Tenderly](https://tenderly.co/) - Tx debugging
