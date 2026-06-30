@@ -1,5 +1,9 @@
 # WEB3 Sources
 
+## Study Korean ;)
+First things first, give a shot!
+- [MyTOPIK](https://mytopik.ai/) 
+
 
 
 
@@ -26,6 +30,3 @@
 - [EVM Dev Tools](https://tools.deth.net/calldata-decoder) - Calldata encoding, unit conversion and more
 - [Remix](https://remix.ethereum.org/) - online IDE
 - [Tenderly](https://tenderly.co/) - Tx debugging
-
-## Study Korean ;)
-- [MyTOPIK](https://mytopik.ai/) 
